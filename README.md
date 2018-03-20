@@ -12,5 +12,4 @@ This repository is a demo for using a LSTM based model to predict whether the pe
 Run ```jupyter notebook keystroke dynamics authentication.ipynb``` to run the notebook
 
 ## Dataset
-```Cs.cmu.edu. (2018). Keystroke Dynamics - Benchmark Data Set. [online] 
-Available at: https://www.cs.cmu.edu/~keystroke/```
+```Cs.cmu.edu. (2018). Keystroke Dynamics - Benchmark Data Set. [online] Available at: https://www.cs.cmu.edu/~keystroke/```
